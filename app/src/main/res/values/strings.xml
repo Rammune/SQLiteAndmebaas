@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SQLiteAndmebaas</string>
+    <string name="toote_string">nimi</string>
+    <string name="kogus_string">nimi</string>
+</resources>
